@@ -16,6 +16,10 @@ You can use the `get` method to get a missing key without crashing. For example,
 
 A unit test is a type of test that tests a single unit of code, such as a function or a method. The purpose of a unit test is to verify that the unit of code behaves as expected under a variety of conditions.
 
+ - What is an integration test?
+
+An integration test is a type of test that tests how different units of code work together. The purpose of an integration test is to verify that the units of code interact with each other as expected, and to catch any bugs that may arise from the interaction between units.
+
 - What is the role of web application framework, like Flask?
 
 The role of a web application framework like Flask is to provide a set of tools and libraries that make it easier to build web applications. For example, Flask provides tools for handling HTTP requests and responses, routing URLs to the appropriate code, and rendering HTML templates. 
